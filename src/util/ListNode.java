@@ -11,4 +11,8 @@ public class ListNode {
 
         val = x;
     }
+
+    public ListNode() {
+
+    }
 }
