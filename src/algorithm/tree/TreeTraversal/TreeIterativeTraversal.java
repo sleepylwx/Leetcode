@@ -111,7 +111,7 @@ public class TreeIterativeTraversal<T> implements TreeTraversal<T>{
 
                     stack.push(current.getRightChild());
                     leftMark = current.getRightChild();
-                    //rightMark = current.getRightChild();
+                    
 
                 }
                 else if(condition.treeNodeValueCondition(current)){
