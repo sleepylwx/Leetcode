@@ -122,9 +122,7 @@ public class TreeIterativeTraversal<T> implements TreeTraversal<T>{
                 }
 
 
-
             }
-
 
 
         }
